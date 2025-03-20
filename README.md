@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @parsivale313
+- Hello, I am a newbie
+- I fell in love with programming logic
+- I am looking to learn more and improve more
+- Hard things always become easier with repetition
