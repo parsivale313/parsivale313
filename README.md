@@ -2,9 +2,7 @@
 
 # Hi 👋, I'm parsivale313
 
-### A passionate Blade developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parsivale313&label=Profile views&color=0e75b6&style=flat" alt="parsivale313" /> </p>
+### A Backend Developer (Laravel + A little React)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parsivale313" alt="parsivale313" /></a> </p>
 
@@ -17,7 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/parsivale313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="parsivale313" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parsi_vale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parsi_vale" height="30" width="40" /></a>
 <a href="https://fb.com/parsi_vale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parsi_vale" height="30" width="40" /></a>
 <a href="https://instagram.com/parsi_vale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parsi_vale" height="30" width="40" /></a>
 </p>
