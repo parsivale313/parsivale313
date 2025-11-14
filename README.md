@@ -10,6 +10,13 @@
 
 - 💬 Ask me about **Training-center-management**
 
+### Summary
+
+Backend Developer متخصص در Laravel با تجربه طراحی و توسعه RESTful API و سیستم‌های Auth/Permission.
+توانایی ساخت پروژه‌های واقعی Full-stack با React و Tailwind و مدیریت عملیات پیچیده Back-end.
+آشنا با Docker و Git/GitHub Flow و آماده توسعه مهارت‌های Security در پروژه‌های آینده.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/parsivale313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="parsivale313" height="30" width="40" /></a>
