@@ -1,5 +1,3 @@
-<h3 align="center">Backend Developer (Laravel + A little React)</h3>
-
 # Hi 👋, I'm parsivale313
 
 ### A Backend Developer (Laravel + A little React)
